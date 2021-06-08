@@ -1,3 +1,4 @@
 你好！Hello!
 你好！Hello!!!（热修复）
 master分支冲突内容
+hot-fix分支冲突内容
